@@ -1,0 +1,192 @@
+# Copyright 2013 MailMojo Widget
+msgid ""
+msgstr ""
+"Project-Id-Version: MailMojo Widget 1.0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/eliksir/MailMojo-WP-Widget/issues\n"
+"POT-Creation-Date: 2017-02-02 12:44+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Frode Danielsen <frode@e5r.no>\n"
+"Language-Team: Eliksir AS <dev@e5r.no>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: mailmojo-plugin.php:66
+msgid ""
+"Settings for the MailMojo widget is outdated. <a href=\"%s\">Please update "
+"the settings now</a>."
+msgstr ""
+"Innstillinger for MailMojo-widgeten er utdatert. <a href=\"%s\">Vennligst "
+"oppdater innstillinger nå</a>."
+
+#: mailmojo-plugin.php:118
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: mailmojo-settings.php:191
+msgid ""
+"Access token is not valid. You'll need to <a href=\"%s\">retrieve a new "
+"access token</a> from the WordPress client in MailMojo."
+msgstr ""
+"Tilgangsnøkkelen er ugyldig. Du må <a href=\"%s\">hente en ny "
+"tilgangsnøkkel</a> fra WordPress-integrasjonen i MailMojo."
+
+#: mailmojo-settings.php:204
+msgid ""
+"To connect with your MailMojo account, you need to <a href=\"%s\">retrieve "
+"an access token</a> from a Wordpress client in MailMojo. This will enable "
+"the widget to retrieve the necessary data to enable signups."
+msgstr ""
+"For å koble til din MailMojo-konto må du <a href=\"%s\">hente din "
+"tilgangsnøkkel</a> fra WordPress-integrasjonen i MailMojo. Denne vil gjøre "
+"det mulig å hente ut nødvending informasjon for å støtte påmeldinger."
+
+#: mailmojo-settings.php:217
+msgid "Paste the access token here"
+msgstr "Lim inn tilgangsnøkkelen her"
+
+#: mailmojo-settings.php:219
+msgid "Get your access token here"
+msgstr "Få din tilgangsnøkkel her"
+
+#: mailmojo-settings.php:233
+msgid "Deprecated in favor of using the MailMojo API."
+msgstr "Utdatert til fordel for å bruke MailMojo API"
+
+#: mailmojo-widget.php:35
+msgid "Easily integrate a mailing list signup form."
+msgstr "Et påmeldingsskjema for ditt nyhetsbrev."
+
+#: mailmojo-widget.php:37
+msgid "MailMojo Signup Form"
+msgstr "MailMojo Påmeldingsskjema"
+
+#: mailmojo-widget.php:79
+msgid ""
+"You need to enter your MailMojo account information on the <a href=\"%s"
+"\">MailMojo settings page</a> first."
+msgstr ""
+"Du må legge inn informasjon for din MailMojo-konto under <a href=\"%s"
+"\">MailMojo-innstillinger</a> først."
+
+#: mailmojo-widget.php:95
+msgid ""
+"Your email lists could not be retrieved. Please go to <a href=\"%s"
+"\">MailMojo settings page</a> and make sure the access token is correct."
+msgstr ""
+"Dine e-postlister er ikke tilgjengelig. Vennligst gå til <a href=\"%s"
+"\">MailMojo-innstillinger</a> og sørg for at tilgangsnøkkelen er riktig."
+
+#: mailmojo-widget.php:101
+msgid ""
+"You don't have any email lists in MailMojo. Please go to MailMojo and add "
+"one. Refresh this page when done."
+msgstr ""
+"Du har ingen e-postlister i MailMojo. Vennligst gå til MailMojo og legg til "
+"dette. Oppdater denne siden når det er gjort."
+
+#: mailmojo-widget.php:109
+msgid "Newsletter Signup"
+msgstr "Nyhetsbrev"
+
+#: mailmojo-widget.php:112
+msgid "Interests:"
+msgstr "Interesser:"
+
+#: mailmojo-widget.php:116
+msgid "Sign me up!"
+msgstr "Meld meg på!"
+
+#: mailmojo.php:55
+msgid "The MailMojo Widget plugin requires PHP 5.4 or newer."
+msgstr "MailMojo Widget-utvidelsen krever PHP 5.4 eller nyere."
+
+#: templates/widget-admin.php:3
+msgid "Subscribe to Email List"
+msgstr "Påmeld til e-postlisten"
+
+#: templates/widget-admin.php:17
+msgid "Title"
+msgstr "Tittel"
+
+#: templates/widget-admin.php:26
+msgid "Description Below Title"
+msgstr "Beskrivelse under tittelen"
+
+#: templates/widget-admin.php:34
+msgid "Signup Button Text"
+msgstr "Påmeldingsknapp"
+
+#: templates/widget-admin.php:47
+msgid "Include name field"
+msgstr "Inkluder felt for navn"
+
+#: templates/widget-admin.php:52
+msgid "Selectable tags"
+msgstr "Merkelapper som kan velges"
+
+#: templates/widget-admin.php:53 templates/widget-admin.php:93
+msgid "optional"
+msgstr "valgfritt"
+
+#: templates/widget-admin.php:57
+msgid "Tag selection label"
+msgstr "Overskrift for valgfrie merkelapper"
+
+#: templates/widget-admin.php:66 templates/widget-admin.php:98
+msgid "Tags (comma separated)"
+msgstr "Merkelapper (kommaseparert)"
+
+#: templates/widget-admin.php:73
+msgid "Selection options"
+msgstr "Valgmuligheter"
+
+#: templates/widget-admin.php:79
+msgid "Single choice"
+msgstr "Valg av én (nedtrekksmeny)"
+
+#: templates/widget-admin.php:86
+msgid "Multiple choice"
+msgstr "Valg av flere (avkrysningsbokser)"
+
+#: templates/widget-admin.php:92
+msgid "Fixed tag(s)"
+msgstr "Faste merkelapper"
+
+#: templates/widget-admin.php:95
+msgid "These tags will automatically be added to the subscribed contact."
+msgstr ""
+"Disse merkelappene vil automatisk bli lagt til kontakten som melder seg på."
+
+#: templates/widget-page.php:18
+msgid "E-mail"
+msgstr "E-postadresse"
+
+#: templates/widget-page.php:28
+msgid "Name"
+msgstr "Navn"
+
+#. Plugin Name of the plugin/theme
+msgid "MailMojo Widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/eliksir/MailMojo-WP-Widget"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a signup widget for a MailMojo mailing list to your WordPress site."
+msgstr ""
+"Legger til påmeldingsskjema for nyhetsbrev fra MailMojo til ditt WordPress-"
+"nettsted."
+
+#. Author of the plugin/theme
+msgid "Eliksir AS"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://e5r.no"
+msgstr ""

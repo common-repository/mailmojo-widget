@@ -1,0 +1,175 @@
+# Copyright (C) 2017 MailMojo Widget
+# This file is distributed under the same license as the MailMojo Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MailMojo Widget 1.0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/eliksir/MailMojo-WP-Widget/issues\n"
+"POT-Creation-Date: 2017-02-02 11:44:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Frode Danielsen <frode@e5r.no>\n"
+"Language-Team: Eliksir AS <dev@e5r.no>\n"
+
+#: mailmojo-plugin.php:66
+msgid ""
+"Settings for the MailMojo widget is outdated. <a href=\"%s\">Please update "
+"the settings now</a>."
+msgstr ""
+
+#: mailmojo-plugin.php:118
+msgid "Settings"
+msgstr ""
+
+#: mailmojo-settings.php:191
+msgid ""
+"Access token is not valid. You'll need to <a href=\"%s\">retrieve a new "
+"access token</a> from the WordPress client in MailMojo."
+msgstr ""
+
+#: mailmojo-settings.php:204
+msgid ""
+"To connect with your MailMojo account, you need to <a href=\"%s\">retrieve "
+"an access token</a> from a Wordpress client in MailMojo. This will enable "
+"the widget to retrieve the necessary data to enable signups."
+msgstr ""
+
+#: mailmojo-settings.php:217
+msgid "Paste the access token here"
+msgstr ""
+
+#: mailmojo-settings.php:219
+msgid "Get your access token here"
+msgstr ""
+
+#: mailmojo-settings.php:233
+msgid "Deprecated in favor of using the MailMojo API."
+msgstr ""
+
+#: mailmojo-widget.php:35
+msgid "Easily integrate a mailing list signup form."
+msgstr ""
+
+#: mailmojo-widget.php:37
+msgid "MailMojo Signup Form"
+msgstr ""
+
+#: mailmojo-widget.php:79
+msgid ""
+"You need to enter your MailMojo account information on the <a href=\"%s"
+"\">MailMojo settings page</a> first."
+msgstr ""
+
+#: mailmojo-widget.php:95
+msgid ""
+"Your email lists could not be retrieved. Please go to <a href=\"%s"
+"\">MailMojo settings page</a> and make sure the access token is correct."
+msgstr ""
+
+#: mailmojo-widget.php:101
+msgid ""
+"You don't have any email lists in MailMojo. Please go to MailMojo and add "
+"one. Refresh this page when done."
+msgstr ""
+
+#: mailmojo-widget.php:109
+msgid "Newsletter Signup"
+msgstr ""
+
+#: mailmojo-widget.php:112
+msgid "Interests:"
+msgstr ""
+
+#: mailmojo-widget.php:116
+msgid "Sign me up!"
+msgstr ""
+
+#: mailmojo.php:55
+msgid "The MailMojo Widget plugin requires PHP 5.4 or newer."
+msgstr ""
+
+#: templates/widget-admin.php:3
+msgid "Subscribe to Email List"
+msgstr ""
+
+#: templates/widget-admin.php:17
+msgid "Title"
+msgstr ""
+
+#: templates/widget-admin.php:26
+msgid "Description Below Title"
+msgstr ""
+
+#: templates/widget-admin.php:34
+msgid "Signup Button Text"
+msgstr ""
+
+#: templates/widget-admin.php:47
+msgid "Include name field"
+msgstr ""
+
+#: templates/widget-admin.php:52
+msgid "Selectable tags"
+msgstr ""
+
+#: templates/widget-admin.php:53 templates/widget-admin.php:93
+msgid "optional"
+msgstr ""
+
+#: templates/widget-admin.php:57
+msgid "Tag selection label"
+msgstr ""
+
+#: templates/widget-admin.php:66 templates/widget-admin.php:98
+msgid "Tags (comma separated)"
+msgstr ""
+
+#: templates/widget-admin.php:73
+msgid "Selection options"
+msgstr ""
+
+#: templates/widget-admin.php:79
+msgid "Single choice"
+msgstr ""
+
+#: templates/widget-admin.php:86
+msgid "Multiple choice"
+msgstr ""
+
+#: templates/widget-admin.php:92
+msgid "Fixed tag(s)"
+msgstr ""
+
+#: templates/widget-admin.php:95
+msgid "These tags will automatically be added to the subscribed contact."
+msgstr ""
+
+#: templates/widget-page.php:18
+msgid "E-mail"
+msgstr ""
+
+#: templates/widget-page.php:28
+msgid "Name"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MailMojo Widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/eliksir/MailMojo-WP-Widget"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a signup widget for a MailMojo mailing list to your WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Eliksir AS"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://e5r.no"
+msgstr ""
